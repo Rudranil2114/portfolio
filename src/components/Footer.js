@@ -1,0 +1,2 @@
+import React from 'react';
+export default function Footer() { return <footer className="footer"><p>&copy; {new Date().getFullYear()} Rudranil Saha | BCA (Honours) Student | Contact: rudranilsaha742@gmail.com</p></footer>; }
